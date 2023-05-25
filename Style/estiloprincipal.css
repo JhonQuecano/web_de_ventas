@@ -21,7 +21,7 @@
 .titulo_cabecera{
  position: absolute;
  top: 60px;
- left: 0px;
+ left: 300px;
 }
 
 .slogan_cabecera{
@@ -31,7 +31,7 @@
 }
 
 .menu{
- margin: 12px 12px 0 0;
+ margin: 10px 10px 0 0;
  position: unset;
  backgroud: none;
  height:unset;
