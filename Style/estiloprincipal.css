@@ -15,13 +15,13 @@
 }
 
 .cabecera img{
-  width: 100px;
+  width: 200px;
 }
 
 .titulo_cabecera{
  position: absolute;
  top: 60px;
- left: 150px;
+ left: 0px;
 }
 
 .slogan_cabecera{
