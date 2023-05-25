@@ -1,5 +1,5 @@
 .contenedor {
-  border: solid 1px black;
+  border: solid 1px orange;
   width: 100%;
   max-width: 1000px;
   margin: auto;
@@ -20,7 +20,7 @@
 
 .titulo_cabecera{
  position: absolute;
- top: 40px;
+ top: 60px;
  left: 150px;
 }
 
